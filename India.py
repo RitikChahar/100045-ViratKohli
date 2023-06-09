@@ -1,1 +1,1 @@
-print("151/5")
+print("151/5, very tough situation for India")
