@@ -1,1 +1,1 @@
-print("Scored 469")
+print("Scored 469, very difficult target")
